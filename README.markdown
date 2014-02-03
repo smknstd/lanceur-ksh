@@ -9,5 +9,5 @@ Le principe est simpliste, le script décompose une liste de tâches en [round r
 Le script était adapté a un grand nombre de tâches courtes. Il est une alternative aux solutions habituelles impliquant un timer.
 
 ### Ressources
-1. **le fabuleux outil du danois Ole Tange [www.gnu.org/software/parallel/](http://www.gnu.org/software/parallel/)
-2. **une [page](http://prll.sourceforge.net/shell_parallel.html) fabuleuse sur le vaste sujet de la parallélisation en shell
+1. **[counting semaphore](http://www.gnu.org/software/parallel/parallel_tutorial.html#counting_semaphore): une fonctionnalité du fabuleux outil du danois Ole Tange
+2. **une [page](http://prll.sourceforge.net/shell_parallel.html) synthétique et très interessante sur le sujet de la parallélisation en shell
